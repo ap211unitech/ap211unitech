@@ -10,7 +10,7 @@ I'm a dedicated software developer at Polkadex, where I specialize in frontend d
 * 🖥️  See my portfolio at [arjunporwal.vercel.app](http://arjunporwal.vercel.app)
 * ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
 * 🧠  I'm learning Rust
-* ⚡  I love playing cricket, but I am not good at it 🤫
+* ⚡  I love playing cricket, but I am not very good at it 🤫
 
 <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
