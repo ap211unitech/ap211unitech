@@ -7,14 +7,15 @@ Software Developer
 I'm a dedicated software developer at Polkadex, where I specialize in frontend development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. Over the past five years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [arjunporwal.vercel.app](http://arjunporwal.vercel.app)
+* 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
 * ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
 * 🧠  I'm learning Rust
 * ⚡  I love playing cricket, but I am not very good at it 🤫
 
-<a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://komarev.com/ghpvc/?username=ap211unitech&abbreviated=true)
 
+<a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ### Skills
 
 
