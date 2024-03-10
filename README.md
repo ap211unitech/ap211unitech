@@ -12,10 +12,9 @@ I'm a dedicated software developer at Polkadex, where I specialize in frontend d
 * 🧠  I'm learning Rust
 * ⚡  I love playing cricket, but I am not very good at it 🤫
 
-![](https://komarev.com/ghpvc/?username=ap211unitech&abbreviated=true)
-
-<a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
+![](https://komarev.com/ghpvc/?username=ap211unitech&abbreviated=true&style=for-the-badge&color=0891b2&labelColor=000000)  <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
 ### Skills
 
 
