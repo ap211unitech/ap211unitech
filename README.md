@@ -4,7 +4,8 @@ Hey there! 👋 I'm Arjun!
 Software Developer
 ------------------
 
-I'm a dedicated Software Developer with expertise in FullStack Development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade) and [Thea Bridge](https://orderbook.polkadex.trade/thea). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space. </br>
+I'm a dedicated Software Developer with expertise in FullStack Development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade) and [Thea Bridge](https://orderbook.polkadex.trade/thea). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space.
+</br> </br>
 Over the past five years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
 * 🌍  I'm based in India
@@ -16,7 +17,7 @@ Over the past five years, I've immersed myself in the world of coding, continuou
 ![](https://komarev.com/ghpvc/?username=ap211unitech&abbreviated=true&style=for-the-badge&color=0891b2&labelColor=000000)  <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> &nbsp;
 
-### Tech Stack
+### 🔧 Tech Stack
 
 - ReactJS, Next.js, TypeScript
 - TailwindCSS, Styled Components, SCSS, CSS-in-JS
@@ -28,11 +29,11 @@ src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-
 - AWS Amplify, Amazon S3
 ...and all that have docs!
 
-### Socials
+### 💬 Socials
 
 <p align="left"> <a href="https://www.dev.to/ap211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="http://www.instagram.com/arjun_porwal_333" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />  </picture> </a> &nbsp; <a href="https://www.x.com/arjun_porwal_33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> &nbsp;</p>
 
-### Badges
+### ✨ Badges
 
 <b>My GitHub Stats</b>
 
