@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-
 * 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
 * ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
 * 🧠  I'm learning Rust
-* ⚡  I love playing cricket, but I am still trying to be better 🤫
+* ⚡  I love playing cricket, and I am still trying to be better 🤫
 
 ### 🔧 Tech Stack
 
