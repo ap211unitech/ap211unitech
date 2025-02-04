@@ -4,7 +4,7 @@ Hey there! 👋 I'm Arjun!
 Software Developer
 ------------------
 
-I'm a dedicated Software Developer with expertise in FullStack Development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade), [Thea Bridge](https://orderbook.polkadex.trade/thea) and [Polkadex SDK](https://github.com/Polkadex-Substrate/polkadex-ts). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space.
+I'm a dedicated Software Developer with expertise in FullStack Development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.ee), [Thea Bridge](https://orderbook.polkadex.ee/thea) and [Polkadex SDK](https://github.com/Polkadex-Substrate/polkadex-ts). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space.
 </br> </br>
 Over the past five years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
