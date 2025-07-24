@@ -10,7 +10,7 @@ Previously, I contributed to major projects at Polkadex, including the [Orderboo
 </br> </br>
 Over the past five years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
-![](https://komarev.com/ghpvc/?username=ap211unitech&abbreviated=true&style=for-the-badge&color=0891b2&labelColor=000000)  <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
+![](https://komarev.com/ghpvc/?username=ap211unitech&style=for-the-badge&color=0891b2&labelColor=000000)  <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> &nbsp;
 
 * 🌍  I'm based in India
