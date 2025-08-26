@@ -16,34 +16,32 @@ src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
 * ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I’m always building with tech — experimenting, shipping, learning.
 * ⚡  I love playing cricket, and I am still trying to be better 🤫
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 - TypeScript, Rust, Solidity
-- Polkadot.js, Ethereum, Hardhat, The Graph
-- Axum, Node.js, Express, JSON Web Token (JWT), GraphQL, MongoDB
-- React, Next.js 
-- Tailwind CSS, Styled Components, SCSS, CSS-in-JS
-- Redux, Redux Toolkit, Jotai, Zustand, Context API
-- Git, Postman, Tanstack
+- Polkadot.js, Ethereum, Hardhat, Ethers.js, Solana, Anchor, @solana/web3.js, The Graph
+- Axum (Rust), Node.js, Express, JSON Web Tokens (JWT), GraphQL, MongoDB
+- React, Next.js, Tailwind CSS, Styled Components, SCSS
+- Jotai, Zustand, TanStack Query, Context API, Redux, Redux Toolkit
+- API Design Principles, Design Patterns, Architectural Patterns
+- Git, Postman, Vercel, Docker, GitHub Actions, Vitest/Jest, ESLint/Prettier
 - AWS Amplify, Amazon S3
   ...and all that have docs!
 
-### 💬 Socials
+## 💬 Socials
 
 <p align="left"> <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/arjun-porwal-9198b71a3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />  </picture> </a> &nbsp; <a href="https://www.x.com/arjun_porwal_33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /> </picture> </a> &nbsp; <a href="https://www.dev.to/ap211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="25" /> </picture> </a></p>
 
-### 🔭 What I’m Building Now
-I’m deepening my knowledge of Rust and Solidity to build smart contracts and decentralized applications (dApps).
+## 🔭 What I’m Building Now
+I’m deepening my knowledge of Rust and Solidity to build smart contracts and decentralized applications (dApps). I’m also actively improving developer tooling for Polkadot.js and polishing UX for ecosystem and cross-chain flows.
 
-### 🎯 Eager to Collaborate On
+## 🎯 Eager to Collaborate On
 I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, [let’s connect](https://www.linkedin.com/in/arjun-porwal-9198b71a3/) !
 
-### ✨ Badges
-
-<b>My GitHub Stats</b>
+## ✨ Badges
 
 <a href="http://www.github.com/ap211unitech"><img src="https://github-readme-stats.vercel.app/api?username=ap211unitech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ap211unitech's GitHub stats" /></a> &nbsp;
 
