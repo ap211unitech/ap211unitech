@@ -1,29 +1,27 @@
-Hey there! 👋 I'm Arjun!
-=============================
+# Hey there! 👋 I'm Arjun!
 
-Software Engineer
-------------------
+> *I’m a Software Engineer specializing in Full-Stack development, with deep experience in backend systems and infrastructure. I focus on building scalable, maintainable software and take ownership from design through production.*
 
-I'm a dedicated Software Engineer with expertise in FullStack Development. With a fervent passion for backend technologies, I strive to master every facet of software engineering. I’m currently leading the development of the [polkadot.js](https://github.com/polkadot-js/) ecosystem — a critical suite of tools and libraries enabling developers to build and interact with Substrate-based blockchains. These open-source utilities, including APIs, UI components, and browser extension, are widely adopted across nearly every project in the Polkadot ecosystem, playing a crucial role in enabling seamless blockchain connectivity and interaction.
+I’m currently leading the development of the [polkadot.js](https://github.com/polkadot-js/) ecosystem — a critical suite of tools and libraries enabling developers to build and interact with Substrate-based blockchains. These open-source utilities, including APIs, UI components, and browser extension, are widely adopted across nearly every project in the Polkadot ecosystem, playing a crucial role in enabling seamless blockchain connectivity and interaction.
 
 Previously, I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.ee), [Thea Bridge](https://orderbook.polkadex.ee/thea) and [Polkadex SDK](https://github.com/Polkadex-Substrate/polkadex-ts). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space.
 </br> </br>
-Over the past five years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
+Over the past 5 years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
-![](https://komarev.com/ghpvc/?username=ap211unitech&style=for-the-badge&color=0891b2&labelColor=000000)  <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
+![](https://komarev.com/ghpvc/?username=ap211unitech&style=for-the-badge&color=0891b2&labelColor=000000) <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> &nbsp;
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
-* ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
-* 🧠  I’m always building with tech — experimenting, shipping, learning.
-* ⚡  I love playing cricket, and I am still trying to be better 🤫
+- 🌍  I'm based in India
+- 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
+- ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
+- 🧠  I’m always building with tech — experimenting, shipping, learning.
+- ⚡  I love playing cricket, and I am still trying to be better 🤫
 
 ## 🔧 Tech Stack
 
 - TypeScript, Rust, Solidity
-- Polkadot.js, Ethereum, Hardhat, Ethers.js, Solana, Anchor, @solana/web3.js, The Graph
-- Axum (Rust), Node.js, Express, JSON Web Tokens (JWT), GraphQL, MongoDB
+- Polkadot.js, Ethereum, Hardhat, Ethers.js, Solana, Anchor, @solana/kit, The Graph
+- Axum, Node.js, Express, JSON Web Tokens (JWT), GraphQL, MongoDB
 - React, Next.js, Tailwind CSS, Styled Components, SCSS
 - Jotai, Zustand, TanStack Query, Context API, Redux, Redux Toolkit
 - API Design Principles, Design Patterns, Architectural Patterns
@@ -36,9 +34,11 @@ src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-
 <p align="left"> <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/arjun-porwal-9198b71a3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />  </picture> </a> &nbsp; <a href="https://www.x.com/arjun_porwal_33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /> </picture> </a> &nbsp; <a href="https://www.dev.to/ap211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="25" /> </picture> </a></p>
 
 ## 🔭 What I’m Building Now
+
 I’m deepening my knowledge of Rust and Solidity to build smart contracts and decentralized applications (dApps). I’m also actively improving developer tooling for Polkadot.js and polishing UX for ecosystem and cross-chain flows.
 
 ## 🎯 Eager to Collaborate On
+
 I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, [let’s connect](https://www.linkedin.com/in/arjun-porwal-9198b71a3/) !
 
 ## ✨ Badges
