@@ -20,8 +20,8 @@ src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-
 ## 🔧 Tech Stack
 
 - TypeScript, Rust, Solidity
-- Polkadot.js, Ethereum, Hardhat, Ethers.js, Solana, Anchor, @solana/kit, The Graph
-- Axum, Node.js, Express, JSON Web Tokens (JWT), GraphQL, MongoDB
+- Ethereum, Hardhat, Ethers.js, Polkadot.js, Solana, Anchor, @solana/kit, The Graph
+- Node.js, Express, Axum, JSON Web Tokens (JWT), GraphQL, PostgreSQL, MongoDB
 - React, Next.js, Tailwind CSS, Styled Components, SCSS
 - Jotai, Zustand, TanStack Query, Context API, Redux, Redux Toolkit
 - API Design Principles, Design Patterns, Architectural Patterns
