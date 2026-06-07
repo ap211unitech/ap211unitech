@@ -20,7 +20,7 @@ Rust · TypeScript · Solidity
 Ethereum · Solana · Anchor · @solana/kit · Hardhat · Ethers.js · Polkadot.js · Substrate · The Graph
 
 **AI & Agents:**
-LLM Integration · On-chain Agent Tooling · Autonomous DeFi Agents · MCP (Model Context Protocol) Servers & Client Integration,
+LLM Integration · On-chain Agent Tooling · Autonomous DeFi Agents · MCP (Model Context Protocol) Servers & Client Integration
 
 **Backend & Infra:**
 Node.js · Axum (Rust) · Express · GraphQL · REST APIs · PostgreSQL · MongoDB · Redis · RabbitMQ · JWT · Microservices · Docker · GitHub Actions · AWS (Amplify, S3)
