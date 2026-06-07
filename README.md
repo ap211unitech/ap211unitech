@@ -2,44 +2,53 @@
 
 > _I’m a Software Engineer specializing in Full-Stack development, with deep experience in backend systems and infrastructure. I focus on building scalable, maintainable software and take ownership from design through production._
 
-I’m currently leading the development of the [polkadot.js](https://github.com/polkadot-js/) ecosystem — a critical suite of tools and libraries enabling developers to build and interact with Substrate-based blockchains. These open-source utilities, including APIs, UI components, and browser extension, are widely adopted across nearly every project in the Polkadot ecosystem, playing a crucial role in enabling seamless blockchain connectivity and interaction.
+I write **Rust** for protocol-level performance and **TypeScript** for everything the end-user touches. My work spans smart contracts, cross-chain infrastructure, and production-grade distributed backend systems — message queues, caching layers, microservices, containerized deployments — with a growing focus on AI-augmented on-chain agents.
 
-Previously, I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.ee), [Thea Bridge](https://orderbook.polkadex.ee/thea) and [Polkadex SDK](https://github.com/Polkadex-Substrate/polkadex-ts). I'm super passionate about Web2, Web3 and Blockchain, always diving into new trends in the space.
+Led the development of the [polkadot.js](https://github.com/polkadot-js/) ecosystem — a critical suite of tools and libraries enabling developers to build and interact with Substrate-based blockchains. These open-source utilities, including APIs, UI components, and browser extension, are widely adopted across nearly every project in the Polkadot ecosystem, playing a crucial role in enabling seamless blockchain connectivity and interaction. Also, shipped the major projects at Polkadex, including the [Orderbook Exchange](https://github.com/Polkadex-Substrate/Polkadex-Orderbook-Frontend), [Thea Bridge](https://github.com/Polkadex-Substrate/Polkadex-Orderbook-Frontend) and [Polkadex SDK](https://github.com/Polkadex-Substrate/polkadex-ts).
 </br> </br>
-Over the past 5 years, I've immersed myself in the world of coding, continuously learning and growing with each project. From crafting seamless user interfaces to architecting robust backend systems, I'm committed to pushing the boundaries of what's possible in the realm of technology.
+Over the past 5 years, I've immersed myself in the world of coding, continuously learning and growing with each project. From architecting robust backend systems to crafting seamless user interfaces, I'm committed to pushing the boundaries of what's possible in the realm of technology.
 
 ![](https://komarev.com/ghpvc/?username=ap211unitech&style=for-the-badge&color=0891b2&labelColor=000000) <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ap211unitech?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a> &nbsp;
 
-- 🌍  I'm based in India
-- 🖥️  See my portfolio at [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
-- ✉️  You can contact me at [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
-- 🧠  I’m always building with tech — experimenting, shipping, learning.
-- ⚡  I love playing cricket, and I am still trying to be better 🤫
-
 ## 🔧 Tech Stack
 
-- TypeScript, Rust, Solidity
-- Ethereum, Hardhat, Ethers.js, Polkadot.js, Solana, Anchor, @solana/kit, The Graph
-- Node.js, Express, Axum, JSON Web Tokens (JWT), GraphQL, PostgreSQL, MongoDB
-- React, Next.js, Tailwind CSS, Styled Components, SCSS
-- Jotai, Zustand, TanStack Query, Context API, Redux, Redux Toolkit
-- API Design Principles, Design Patterns, Architectural Patterns
-- Git, Postman, Vercel, Docker, GitHub Actions, Vitest/Jest, ESLint/Prettier
-- AWS Amplify, Amazon S3
-  ...and all that have docs!
+**Languages:**
+Rust · TypeScript · Solidity
 
-## 💬 Socials
+**Blockchain & Web3:**
+Ethereum · Solana · Anchor · @solana/kit · Hardhat · Ethers.js · Polkadot.js · Substrate · The Graph
 
-<p align="left"> <a href="https://www.github.com/ap211unitech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/arjun-porwal-9198b71a3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />  </picture> </a> &nbsp; <a href="https://www.x.com/arjun_porwal_33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /> </picture> </a> &nbsp; <a href="https://www.dev.to/ap211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="25" /> </picture> </a></p>
+**AI & Agents:**
+LLM Integration · On-chain Agent Tooling · Autonomous DeFi Agents · MCP (Model Context Protocol) Servers & Client Integration,
 
-## 🔭 What I’m Building Now
+**Backend & Infra:**
+Node.js · Axum (Rust) · Express · GraphQL · REST APIs · PostgreSQL · MongoDB · Redis · RabbitMQ · JWT · Microservices · Docker · GitHub Actions · AWS (Amplify, S3)
 
-I’m deepening my knowledge of Rust and Solidity to build smart contracts and decentralized applications (dApps). I’m also actively improving developer tooling for Polkadot.js and polishing UX for ecosystem and cross-chain flows.
+**Frontend:**
+React · Next.js · Tailwind CSS · Jotai · Zustand · TanStack Query
 
-## 🎯 Eager to Collaborate On
+**Tooling & Practices:**
+Git · Vercel · Vitest/Jest · ESLint/Prettier · System Design · API Design · Design Patterns · Architectural Patterns
 
-I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, [let’s connect](https://www.linkedin.com/in/arjun-porwal-9198b71a3/) !
+## 📍 Quick Links
+
+- 🖥️ Portfolio: [arjunporwal.vercel.app](https://arjunporwal.vercel.app)
+- ✉️ Email: [porwalarjun95@gmail.com](mailto:porwalarjun95@gmail.com)
+- 💼 LinkedIn: [arjun-porwal-9198b71a3](https://www.linkedin.com/in/arjun-porwal-9198b71a3/)
+- 🐦 Twitter/X: [@arjun_porwal_33](https://www.x.com/arjun_porwal_33)
+
+## 🤝 Let's Build
+
+I'm actively looking to collaborate on:
+
+- **Distributed backend systems** — high-throughput APIs, event-driven microservices, real-time data pipelines
+- **Production reliability** — structured observability (logging, tracing, alerting), graceful degradation, rate limiting, and database internals (query optimization, indexing, connection pooling)
+- **AI-powered blockchain tooling** — agents that act on-chain autonomously
+- **DeFi protocols and DEXs** — smart contracts, AMMs, cross-chain flows
+- **Developer infrastructure** — SDKs, Indexers, RPC tooling for EVM / Solana / Polkadot
+
+If you're building something in this space, [let's connect](https://www.linkedin.com/in/arjun-porwal-9198b71a3/).
 
 ## ✨ Badges
 
